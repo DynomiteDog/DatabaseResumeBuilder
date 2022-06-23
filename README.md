@@ -1,2 +1,2 @@
 # DatabaseResumeBuilder
-relational database specifically designed form my resume
+relational database specifically designed from my resume document
